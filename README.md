@@ -1,8 +1,17 @@
+<!-- Banner Image Layer -->
+<div align="center">
+  <img src="https://i.ibb.co/XzYw230/modern-tech-banner.png" alt="Dynamic Banner" width="100%" style="display: block; position: relative;">
+</div>
+
+<!-- Dynamic Text Overlay Layer (Typing Effect) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF79C6&background=141321&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+%F0%9F%90%8B;I'm+a+.NET+%26+C%23+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=Hi+There!+%F0%9F%90%8B;I'm+[YOUR+NAME];.NET+%26+C%23+Developer;Welcome+to+my+profile!" alt="Typing Text Banner" />
   </a>
 </p>
+
+<!-- Optional: Thin border line for style -->
+<hr>
 
 # Hi there, I'm Noor Afzal 👋
 
