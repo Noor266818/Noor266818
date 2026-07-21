@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There,%20I'm%20Noor Afzal!&fontSize=40&animation=twinkling" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
 </p>
 
 # Hi there, I'm Noor Afzal 👋
