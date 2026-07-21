@@ -1,11 +1,11 @@
-# Hi there, I'm [Noor Afzal] 👋
+# Hi there, I'm Noor Afzal 👋
 
 > **web and .Net developer** | Building web apps & learning new technologies.
 
 ---
 
 ## ⚡ About Me
-- 🔭 **Working on:** [Online Voting System]
+- 🔭 **Working on:** Online Voting System,Moodspace Dashboard,Art Gallery,ToDo matrix.
 - 🌱 **Learning:** HTML,CSS,API Testing,Database
 - 💬 **Ask me about:** HTML, CSS, Blazor, Web Development
 - 📫 **Reach me:** noorafzalpk143@gmail.com
