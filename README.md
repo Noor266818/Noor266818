@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There,%20I'm%20Noor Afzal!&fontSize=40&animation=twinkling" />
+</p>
+
 # Hi there, I'm Noor Afzal 👋
 
 > **web and .Net developer** | Building web apps & learning new technologies.
