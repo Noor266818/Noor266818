@@ -35,6 +35,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noor266818&theme=radical&bg_color=141321" width="100%" />
+</p>
+
 ## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noor266818&theme=radical" width="48%" />
