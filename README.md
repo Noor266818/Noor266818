@@ -1,11 +1,9 @@
 
-<div align="center" style="background-color: #141321; padding: 30px; border-radius: 10px; border: 1px solid #512BD4;">
-  <h1><font color="#FFFFFF">👋 Hi, I'm </font><font color="#A594F9">Noor Afzal</font></h1>
-  <h3><font color="#999999">🚀 .NET & C# Developer | Backend Specialist</font></h3>
-  <p><font color="#CCCCCC"><i>Building Scalable Web Applications & Robust REST APIs</i></font></p>
-</div>
-
-<br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF79C6&background=141321&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+%F0%9F%90%8B;I'm+a+.NET+%26+C%23+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+</p>
 
 # Hi there, I'm Noor Afzal 👋
 
