@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=141321&height=220&section=header&text=Hi%20There!%20I'm%20Noor Afzal&fontSize=38&fontColor=ffffff&animation=twinkling&desc=.NET%20%26%20C%23%20Developer%20%7C%20Backend%20Specialist&descSize=20&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=141321&center=true&vCenter=true&width=800&height=180&lines=Hi+There!+%F0%9F%90%8B;I'm+Noor Afzal;.NET+%26+C%23+Developer;Welcome+to+my+GitHub+Profile!" width="100%" alt="Header Banner" />
 </p>
 
 # Hi there, I'm Noor Afzal 👋
