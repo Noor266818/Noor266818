@@ -24,5 +24,5 @@
 ## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noor266818&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=266818&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=266818&layout=compact&theme=radical" width="48%" />
 </p>
